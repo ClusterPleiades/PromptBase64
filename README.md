@@ -5,7 +5,10 @@ Android Application for Encoding/Decoding Base64
 ## Release
 <img src="https://user-images.githubusercontent.com/81938036/150636567-2ea5dd2d-00b7-45b6-b2a4-3094232bb495.png" width="64" height="64">
 <a href="https://play.google.com/store/apps/details?id=com.pleiades.pleione.base64">
-  <img src="https://img.shields.io/badge/Play Store-1.1.0-orange">
+  <img src="https://img.shields.io/badge/Play Store-1.1.0-FD9E16">
+</a>
+<a href="https://play.google.com/store/apps/details?id=com.pleiades.pleione.base64">
+  <img src="https://img.shields.io/badge/Downloads-0.29k-orange">
 </a>
 <br><br>
 
